@@ -104,5 +104,6 @@ All photos are from Unsplash under the [Unsplash License](https://unsplash.com/l
 
 ## Deployment
 
-- Repository: (added after deployment)
-- Live URL: (added after deployment)
+- Repository: https://github.com/vivabbong-a11y/montblanc
+- Live URL: https://vivabbong-a11y.github.io/montblanc/
+- Hosting: GitHub Pages, branch `main`, folder `/` (root). Deployed 2026-11-01.
